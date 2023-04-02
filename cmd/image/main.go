@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/kryptamine/vid"
 	"log"
 	"os"
 	"path/filepath"
-	"vid"
 )
 
 const width = 60
