@@ -1,4 +1,4 @@
-module vid
+module github.com/kryptamine/vid
 
 go 1.20
 
