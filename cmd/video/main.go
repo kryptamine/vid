@@ -15,7 +15,7 @@ func main() {
 
 	path := filepath.Join(cwd, "clip.mp4")
 
-	if err = vid.PlayVideo(path, 130); err != nil {
+	if err = vid.PlayVideo(path, 100); err != nil {
 		log.Fatal(err)
 	}
 }
